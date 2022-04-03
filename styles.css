@@ -12,3 +12,13 @@
 .cabecalho.casa {
     background-color: #00C4B4;
 }
+
+th {
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
